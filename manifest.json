@@ -1,0 +1,38 @@
+{
+  "name": "PATK Poltek ITB'99",
+  "short_name": "PATK Poltek ITB'99",
+  "start_url": "https://www.patkpoltekitb.my.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Daftar Alumni PATK Poltek ITB tahun 1999.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-6LB6gVyLlis/XuHNppTUNOI/AAAAAAAAAf0/emmWQsFBeso04nxkgvFVqdJ468Ddu-tZQCLcBGAsYHQ/s48/PATK.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6LB6gVyLlis/XuHNppTUNOI/AAAAAAAAAf0/emmWQsFBeso04nxkgvFVqdJ468Ddu-tZQCLcBGAsYHQ/s72/PATK.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6LB6gVyLlis/XuHNppTUNOI/AAAAAAAAAf0/emmWQsFBeso04nxkgvFVqdJ468Ddu-tZQCLcBGAsYHQ/s96/PATK.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6LB6gVyLlis/XuHNppTUNOI/AAAAAAAAAf0/emmWQsFBeso04nxkgvFVqdJ468Ddu-tZQCLcBGAsYHQ/s144/PATK.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6LB6gVyLlis/XuHNppTUNOI/AAAAAAAAAf0/emmWQsFBeso04nxkgvFVqdJ468Ddu-tZQCLcBGAsYHQ/s168/PATK.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6LB6gVyLlis/XuHNppTUNOI/AAAAAAAAAf0/emmWQsFBeso04nxkgvFVqdJ468Ddu-tZQCLcBGAsYHQ/s192/PATK.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6LB6gVyLlis/XuHNppTUNOI/AAAAAAAAAf0/emmWQsFBeso04nxkgvFVqdJ468Ddu-tZQCLcBGAsYHQ/s512/PATK.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
